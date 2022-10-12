@@ -1,0 +1,25 @@
+.b1 {
+color:darkturquoise;
+background-color:white;
+border-radius: 10px;
+border: 1px;
+border-color:darkturquoise;
+width: 100px;
+border-style: solid;
+
+}
+.b2 {
+border-radius: 50%;
+border: 10px;
+background-color: darkturquoise;
+color: white;
+}
+.b3 {
+color: aliceblue;
+background-color: dodgerblue;
+border: 1px;
+border-color: black;
+border-style: solid;
+box-shadow: 5px 4px 3px black;
+
+}
